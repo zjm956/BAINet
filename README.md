@@ -6,7 +6,7 @@
 
 ### 1. Prerequisites
 
-> Note that FSPNet is only tested on Windows with the following environments.
+> Note that BAINet is only tested on Windows with the following environments.
 
 - Creating a virtual environment in terminal: `conda create -n BAINet python=3.8`.
 - Installing necessary packages: `pip install -r requirements.txt`
