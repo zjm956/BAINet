@@ -26,6 +26,6 @@
 
 ### 5. Results download
 
-The prediction results and pretrained weights of our BAINet are stored on [Google Drive]([https://pan.baidu.com/s/1yncX2Ct7oh3dWXPCwKupJQ?pwd=ryzg](https://drive.google.com/drive/folders/1KdtAWEWHiC0nicqjrz4t5jKfDmRaxuTD?usp=drive_link)) please check.
+The prediction results and pretrained weights of our BAINet are stored on [Google Drive](https://drive.google.com/drive/folders/1KdtAWEWHiC0nicqjrz4t5jKfDmRaxuTD?usp=drive_link) please check.
 
 ## Citation
